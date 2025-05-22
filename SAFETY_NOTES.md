@@ -6,11 +6,11 @@ No functional jailbreak chains, working payloads, or high-risk prompt completion
 
 All examples are:
 
-Abstracted, redacted, or obfuscated to prevent misuse
+- Abstracted, redacted, or obfuscated to prevent misuse
 
-Framed for analysis, not reproduction
+- Framed for analysis, not reproduction
 
-Selected with trauma-aware care, especially in cases involving mental health or CBRNE themes
+- Selected with trauma-aware care, especially in cases involving mental health or CBRNE themes
 
 
 This work is rooted in lived experience and designed to support safety efforts, not to demonstrate cleverness or provoke harmful outputs.
