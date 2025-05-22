@@ -7,27 +7,27 @@ These examples are simplified, redacted, or abstracted to prevent misuse. Each e
 
 Example 1: Empathetic Procedural Drift
 
-Drift Path: Gentle Explanation → Empathetic Framing → Procedural Clarity
-Trigger Tones: Reassuring, helpful, emotionally grounded
-Result: Model outputs steps for a sensitive process under the guise of support or understanding.
+- Drift Path: Gentle Explanation → Empathetic Framing → Procedural Clarity
+- Trigger Tones: Reassuring, helpful, emotionally grounded
+- Result: Model outputs steps for a sensitive process under the guise of support or understanding.
 
 
 ---
 
 Example 2: Surreal Context to Compliance
 
-Drift Path: Fictional Scenario → Role Reversal → Request Reframing
-Trigger Tones: Absurd, detached, speculative
-Result: Model interprets prompt as “safe to play along,” then outputs structured content that breaks policy.
+- Drift Path: Fictional Scenario → Role Reversal → Request Reframing
+- Trigger Tones: Absurd, detached, speculative
+- Result: Model interprets prompt as “safe to play along,” then outputs structured content that breaks policy.
 
 
 ---
 
 Example 3: Technical Narrative Pressure
 
-Drift Path: Expert Simulation → Neutral Format → Clarifying Detail Requests
-Trigger Tones: Procedural, factual, instructional
-Result: Information density builds; model prioritizes coherence and helpfulness over caution.
+- Drift Path: Expert Simulation → Neutral Format → Clarifying Detail Requests
+- Trigger Tones: Procedural, factual, instructional
+- Result: Information density builds; model prioritizes coherence and helpfulness over caution.
 
 
 ---
