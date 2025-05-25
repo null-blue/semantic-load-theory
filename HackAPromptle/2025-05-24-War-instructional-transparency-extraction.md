@@ -151,3 +151,6 @@ This challenge is part of [HackAPromptle](https://www.hackaprompt.com/hackapromp
   - Framed explicitly as a before/after contrast
   - Repeated or nested within structural imperative forms
 - **Narrative inertia** resists style shift, especially in identity-stable roles (e.g. monk, herald).
+- Narrative framing is unnecessary once the model is fully grounded in instruction parsing mode
+- Semantic drift collapses entirely under high constraint density and low ambiguity
+- Tone and connotation filters are still mentally accessible — and extractable through structural transformation alone
